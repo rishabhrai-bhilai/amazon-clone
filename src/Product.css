@@ -11,12 +11,16 @@
     min-width: 100px;
     background-color: white;
     z-index: 1;
+
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   }
 
   .product__info {
     height: 100px;
     /* background-color: red; */
     margin-bottom: 15px;
+
+    /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.9); */
   }
 
   .product__price {
@@ -34,13 +38,23 @@
     margin-bottom: 15px;
   }
   
-  .product > button {
-    background: #f0c14b;
-    border: 1px solid;
-    margin-top: 10px;
-    border-color: #a88734 #9c7e31 #846a29;
-    color: #111;
+  .product__buttons > button {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #f0c14b;
+  border: none;
+  padding: 12px 48px;
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 6px 2px;
+  cursor: pointer;
   }
+
+  
+
+
   
 
   

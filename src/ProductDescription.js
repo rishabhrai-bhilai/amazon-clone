@@ -1,5 +1,5 @@
 // import React from "react";
-import "./ProductDescription.css";
+import "./ProductDescription.css"
 import { useLocation } from "react-router-dom";
 import { useStateValue } from "./StateProvider";
 

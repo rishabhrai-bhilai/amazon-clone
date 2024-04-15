@@ -45,14 +45,21 @@ function Product({ id, title, image, price, rating }) {
 
       <img src={image} alt="" />
 
-      <button onClick={addToBasket}>Add to Basket</button>
       
-      <Link to={{
+      
+      <div className="product__buttons">
+
+      <button onClick={addToBasket}>Add to Basket</button>
+
+      <Link className="product__buttons" to={{
         pathname:'/productdescription',
         state: { product_info: { id, title, image, price, rating }  }
       }} >
       <button >View Product</button>
       </Link>
+
+      </div>
+      
       
 
     </div>

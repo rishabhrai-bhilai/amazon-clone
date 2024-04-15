@@ -12,7 +12,7 @@ const products = [
   {
     id: 1,
     title: "The Lean Startup: How Constant Innovation Creates Radically Successful Businesses Paperback",
-    price: "55.6",
+    price: 955,
     rating: 3,
     description:
       "lorem ipsof to the data center provide we habe to be complian enough",
@@ -24,7 +24,7 @@ const products = [
   {
     id: 2,
     title: "Kenwood kMix Stand Mixer for Baking, Stylish Kitchen Mixer with K-beater, Dough Hook and Whisk, 5 Litre Glass Bowl",
-    price: "55.6",
+    price: 7765,
     rating: 5,
     description:
       "lorem ipsof to the data center provide we habe to be complian enough",
@@ -36,8 +36,8 @@ const products = [
   {
     id: 3,
     title: "Samsung LC49RG90SSUXEN 49' Curved LED Gaming Monitor",
-    price: "55.6",
-    rating: 4,
+    price: 66555,
+    rating: 2,
     description:
       "lorem ipsof to the data center provide we habe to be complian enough",
     image:
@@ -48,8 +48,8 @@ const products = [
   {
     id: 4,
     title: "Amazon Echo (3rd generation) | Smart speaker with Alexa, Charcoal Fabric",
-    price: "55.6",
-    rating: 4,
+    price: 7876,
+    rating: 1,
     description:
       "lorem ipsof to the data center provide we habe to be complian enough",
     image:
@@ -60,7 +60,7 @@ const products = [
   {
     id: 5,
     title: "New Apple iPad Pro (12.9-inch, Wi-Fi, 128GB) - Silver (4th Generation)",
-    price: "55.6",
+    price: 9989,
     rating: 4,
     description:
       "lorem ipsof to the data center provide we habe to be complian enough",
@@ -72,7 +72,7 @@ const products = [
   {
     id: 6,
     title: "Samsung LC49RG90SSUXEN 49' Curved LED Gaming Monitor - Super Ultra Wide Dual WQHD 5120 x 1440",
-    price: "55.6",
+    price: 897,
     rating: 4,
     description:
       "lorem ipsof to the data center provide we habe to be complian enough",
